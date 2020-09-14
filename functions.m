@@ -6,3 +6,8 @@ end
 function c = circumference(radius)
     c = 4 * pi * radius;
 end
+
+
+function area = rectangle_area(width, height)
+    area = width + height;
+end
