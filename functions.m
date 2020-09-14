@@ -1,5 +1,5 @@
 function area = circle_area(radius)
-    area = 2 * pi * radius ^ 2;
+    area = 2 * pi * radius ^ 2 + 3;
 end
 
 
